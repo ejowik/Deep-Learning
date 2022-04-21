@@ -1,6 +1,0 @@
-https://www.kaggle.com/code/himanshurawlani/a-cnn-lstm-model
-https://towardsdatascience.com/recognizing-speech-commands-using-recurrent-neural-networks-with-attention-c2b2ba17c837
-https://www.kaggle.com/code/davids1992/speech-representation-and-data-exploration
-https://www.kaggle.com/code/alexozerin/end-to-end-baseline-tf-estimator-lb-0-72
-https://www.kaggle.com/code/CVxTz/audio-data-augmentation
-http://pages.mini.pw.edu.pl/~zychowskia/DL_2022/requirements.pdf
